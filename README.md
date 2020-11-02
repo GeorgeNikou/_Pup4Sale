@@ -2,7 +2,7 @@
 <h1 align="left"><img align="center" width="50px" src="images/android-chrome-192x192.png" width="100" />Pup4Sale</h1>  
 
 ## About
-A small scale project developed using technologies I solely focus on. Pup4Sale is a simple fully responsive dog breeding website that helps users learn about a specific breed in addition to finding the puppy of their dreams. The application code repository remains private, however, snippets can be shown upon request.
+A small scale project developed using technologies I solely focus on. Pup4Sale is a simple fully responsive dog breeding website that helps users learn about a specific breed in addition to finding the puppy of their dreams. The application code repository remains private, however, snippets can be shown upon request. (www.pup4sale.website)
 
 ## Web Framework
 * Laravel: v5.8
